@@ -1,2 +1,2 @@
 
-print("Hello, Namratha! 🚀")
+print("Hello, Namratha! ")
